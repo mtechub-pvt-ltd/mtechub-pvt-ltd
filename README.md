@@ -1,6 +1,6 @@
 - 👋 Hi, we are @mtechub-pvt-ltd having 4 year of experience in web and Apps development.   
-- 👀 we work in tech stack : MERN STACK FLUTTER and Laravel
-- 💞️ I’m looking to collaborate on Mern Stack Flutter and Laravel Projects.
+- 👀 we work in tech stack : MERN STACK  and REACT NATIVE
+- 💞️ I’m looking to collaborate on Mern Stack  and React Naitve Projects.
 - 📫 Reach us at : www.mtechub.com
 
 <!---
